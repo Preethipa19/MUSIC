@@ -21,7 +21,7 @@ Welcome to JaZZ-OPERA, a music site dedicated to offering a rich collection of j
 
 ## Installation
 
-To run this project locally, follow these steps:
+# To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
